@@ -1,0 +1,11 @@
+executables:
+  bla:
+    main: Main.hs
+    source-dirs:
+      - src
+    dependencies:
+      - base
+      - reflex-dom
+      - containers
+      - safe
+      - generics-eot
