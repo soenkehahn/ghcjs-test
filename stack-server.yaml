@@ -2,4 +2,4 @@ flags: {}
 packages:
   - server
 extra-deps: []
-resolver: lts-3.12
+resolver: nightly-2015-11-03

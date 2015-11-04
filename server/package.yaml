@@ -9,3 +9,4 @@ executables:
       - wai-app-static
       - wai
       - logging-facade
+      - getopt-generics

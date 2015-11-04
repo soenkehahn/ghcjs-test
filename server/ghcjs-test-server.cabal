@@ -16,4 +16,5 @@ executable ghcjs-test-server
     , wai-app-static
     , wai
     , logging-facade
+    , getopt-generics
   default-language: Haskell2010
