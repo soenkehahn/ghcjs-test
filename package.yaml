@@ -1,5 +1,5 @@
 executables:
-  bla:
+  generic-forms:
     main: Main.hs
     source-dirs:
       - src
