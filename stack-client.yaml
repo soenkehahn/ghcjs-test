@@ -1,7 +1,7 @@
 flags: {}
 
 packages:
-- location: ./.
+- location: ./client
 - location:
     git: https://github.com/ryantrinkle/reflex
     commit: 784f9f79396ae713a03fc4d81f8a67b75d6ade1c # need a few package bumps not present in hackage release yet

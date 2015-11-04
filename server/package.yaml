@@ -1,0 +1,11 @@
+name: ghcjs-test-server
+executables:
+  ghcjs-test-server:
+    main: Main.hs
+    dependencies:
+      - base
+      - filepath
+      - warp
+      - wai-app-static
+      - wai
+      - logging-facade

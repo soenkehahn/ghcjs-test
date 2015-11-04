@@ -1,8 +1,9 @@
+name: ghcjs-test-client
 executables:
-  generic-forms:
+  ghcjs-test-client:
     main: Main.hs
     source-dirs:
-      - src
+      - ./.
     dependencies:
       - base
       - reflex-dom

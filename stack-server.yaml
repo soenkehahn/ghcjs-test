@@ -1,0 +1,5 @@
+flags: {}
+packages:
+  - server
+extra-deps: []
+resolver: lts-3.12
